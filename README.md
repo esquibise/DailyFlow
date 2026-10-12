@@ -12,9 +12,9 @@
 
 ## Stack technique
 
-* **Frontend :** Vue.js 3, TypeScript et React.
-* **Backend :** PHP et API REST.
-* **Base de données :** MySQL / MariaDB.
+* **Frontend implémenté :** Vue.js 3, TypeScript et Vite.
+* **Backend prévu :** PHP avec une API REST (le dossier `backend/` est encore vide).
+* **Base de données prévue :** MySQL / MariaDB (non configurée à ce stade).
 * **Versionnement :** Git et GitHub.
 
 ## Architecture
@@ -25,4 +25,4 @@
 
 ## État du projet
 
-En cours de développement.
+Le frontend est en cours de développement. Il peut être lancé depuis `frontend/` avec `npm install`, puis `npm run dev`.
