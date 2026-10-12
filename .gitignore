@@ -1,0 +1,18 @@
+# Dépendances
+node_modules/
+vendor/
+
+# Variables d'environnement et secrets
+.env
+.env.*
+!.env.example
+
+# Fichiers générés
+dist/
+build/
+coverage/
+
+# Éditeurs et systèmes
+.vscode/
+.DS_Store
+Thumbs.db
